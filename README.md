@@ -1,3 +1,3 @@
 # coursera-test
 coursera test repository
-introduction to CSS and HTLM5
+introduction to javascript,CSS and HTLM5
